@@ -26,6 +26,7 @@ open [localHost:3000](localhost:3000) in your browser
 
 3. attempt logging in (test incorrect email and passwords to see error handling) 
 
+![register/login](https://gyazo.com/1a1e6e466824e55125e8cc6d57f2f1fd.gif)
 
 ## Technologies Used
 * BCrypt
